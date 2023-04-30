@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
-import 'package:unitconverter/models/timermodel.dart';
-import 'package:unitconverter/settings.dart';
-import 'package:unitconverter/timer.dart';
-import 'package:unitconverter/widgets/productivityButton.dart';
+import 'package:timer_app/models/timermodel.dart';
+import 'package:timer_app/settings.dart';
+import 'package:timer_app/timer.dart';
+import 'package:timer_app/widgets/productivityButton.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 
 class TimerHomePage extends StatelessWidget {

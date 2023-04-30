@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:unitconverter/timerHomePage.dart';
+import 'package:timer_app/timerHomePage.dart';
 
 void main() {
   runApp(const MyApp());
