@@ -1,4 +1,4 @@
-package com.example.unitconverter
+package com.example.timer
 
 import io.flutter.embedding.android.FlutterActivity
 
